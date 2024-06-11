@@ -9,5 +9,5 @@ Responsive Design: Clean and intuitive user interface built with React.js and CS
 Scalability: Built with Firebase, allowing for easy scaling as the number of users grows.
 
 ## Tech Stack
-Frontend: React.js, CSS
+Frontend: React.js, CSS  
 Backend: Firebase Firestore, Firebase Authentication
