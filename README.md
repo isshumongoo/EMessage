@@ -1,4 +1,4 @@
-# eMessages
+# eMessage
 eMessages is a real-time messaging web application designed to offer seamless and instant communication between users, similar to iMessage. This project showcases the power of modern web technologies and cloud-based backend services to create a responsive and interactive user experience.
 
 ## Features
