@@ -11,3 +11,8 @@ eMessages is a real-time messaging web application designed to offer seamless an
 ## Tech Stack
 **Frontend**: React.js, CSS  
 **Backend**: Firebase Firestore, Firebase Authentication
+
+## Usage
+- Register a new user account or log in with existing credentials.
+- Start a new conversation by selecting a user and begin sending messages in real-time.
+- Messages are automatically stored and synchronized using Firebase Firestore.
